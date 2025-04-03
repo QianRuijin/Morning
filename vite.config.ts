@@ -8,4 +8,13 @@ export default defineConfig({
   server: {
     open: true,
   },
+  css: {
+    modules: {
+      localsConvention: 'camelCase', // 类名转为驼峰
+      generateScopedName: '[name]__[local]___[hash:base64:5]' // 自定义类名格式
+    }
+  },
+  build: {
+    cssMinify: true,
+  }
 });

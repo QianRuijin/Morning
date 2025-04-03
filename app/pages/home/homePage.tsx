@@ -1,6 +1,6 @@
-
+import classes from  "./homePage.module.css"
 export default function HomePage() {
   return (
-    <div>HomePage</div>
+    <div className={classes.title}>HomePage</div>
   )
 }
