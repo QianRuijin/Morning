@@ -1,6 +1,13 @@
-import classes from  "./homePage.module.css"
+import SearchBar from './searchBar'
+import FilterBar from './filterBar'
+import GalleryBar from './galleryBar'
+// import classes from "./homePage.module.css"
 export default function HomePage() {
   return (
-    <div className={classes.title}>HomePage</div>
+    <>
+      <SearchBar />
+      <FilterBar />
+      <GalleryBar />
+    </>
   )
 }

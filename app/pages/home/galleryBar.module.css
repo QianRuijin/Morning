@@ -1,0 +1,6 @@
+.waterfallContainer {
+  position: relative;
+  width: 100%;
+  min-height: 100vh; /* 根据实际内容高度调整 */
+  transition: height 0.3s ease-in-out;
+}
