@@ -1,0 +1,705 @@
+[
+  {
+    "id": 1,
+    "nationality": "意大利",
+    "name": "Achille Castiglioni",
+    "birth": "1918—2002",
+    "avatar": {
+      "url": "/images/image_1.png",
+      "width": 734,
+      "height": 467
+    },
+    "works": "Luminator/流明者落地灯Arco落地灯Taraxacum 88/ 1988年蒲公英吊灯,Leonardo工作桌",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/73syDYnZVbLMlJ6hz05uCg"
+  },
+  {
+    "id": 2,
+    "nationality": "芬兰",
+    "name": "Alvar Aalto",
+    "birth": "1898年-1976",
+    "avatar": {
+      "url": "/images/image_2.png",
+      "width": 1262,
+      "height": 1270
+    },
+    "works": "42号扶手椅,23号座椅,60号凳",
+    "cases": "Paimio肺病疗养院",
+    "links": "https://mp.weixin.qq.com/s/m34TFNAtSNcTGZfLGjOLOQ"
+  },
+  {
+    "id": 3,
+    "nationality": "丹麦",
+    "name": " Arne Jacobsen",
+    "birth": "1902--1971",
+    "avatar": {
+      "url": "/images/image_3.png",
+      "width": 1112,
+      "height": 894
+    },
+    "works": "Ant Chair,Egg、Swan 椅子, AJ 灯系列",
+    "cases": "bella vista,sas royal hotel",
+    "links": "https://mp.weixin.qq.com/s/CZ6IVIb_7mF89f-sVTGpag"
+  },
+  {
+    "id": 4,
+    "nationality": "意大利",
+    "name": "Aldo Rossi",
+    "birth": "1931-1997",
+    "avatar": {
+      "url": "/images/image_4.png",
+      "width": 812,
+      "height": 650
+    },
+    "works": "",
+    "cases": "加拉拉特西公寓",
+    "links": "https://mp.weixin.qq.com/s/gIg3fqKcoDkCwYG64rdoag"
+  },
+  {
+    "id": 5,
+    "nationality": "美国",
+    "name": "Alexander Girard",
+    "birth": "1907-1993",
+    "avatar": {
+      "url": "/images/image_5.png",
+      "width": 428,
+      "height": 350
+    },
+    "works": "DAX-1座椅,",
+    "cases": "圣塔菲自宅,Miller House,织物设计",
+    "links": "https://mp.weixin.qq.com/s/eofD6ab-LgdgfY7VbV-o6g"
+  },
+  {
+    "id": 6,
+    "nationality": "意大利",
+    "name": "antonio citterio",
+    "birth": "1950-",
+    "avatar": {
+      "url": "/images/image_6.png",
+      "width": 378,
+      "height": 318
+    },
+    "works": "Dolly折叠椅,Battista折叠桌,citterio椅",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/fULX6dUGWhpyGWA2B4I7qw"
+  },
+  {
+    "id": 7,
+    "nationality": "瑞典",
+    "name": "Bruno Mathsson",
+    "birth": "1907-1988",
+    "avatar": {
+      "url": "/images/image_7.png",
+      "width": 916,
+      "height": 908
+    },
+    "works": "Pernilla,EVA椅",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/mjSwwaYGPDejSpmgb9T-vA"
+  },
+  {
+    "id": 8,
+    "nationality": "丹麦",
+    "name": "Børge Mogensen",
+    "birth": "1914-1972",
+    "avatar": {
+      "url": "/images/image_8.png",
+      "width": 506,
+      "height": 514
+    },
+    "works": "Spanish Chair,J39 单椅",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/GO5XBvwtEqI1Rd1y4Ymi9w"
+  },
+  {
+    "id": 9,
+    "nationality": "法国巴黎",
+    "name": "Charlotte Perriand",
+    "birth": "1903-1999",
+    "avatar": {
+      "url": "/images/image_9.png",
+      "width": 562,
+      "height": 490
+    },
+    "works": "lc4椅,LC2「Grand confort极致舒适」的沙发椅,",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/4R_uM-D3poXfbRJqGRlGgg"
+  },
+  {
+    "id": 10,
+    "nationality": "苏格兰",
+    "name": "Charles Rennie Mackintosh",
+    "birth": "1868-1928",
+    "avatar": {
+      "url": "/images/image_10.png",
+      "width": 1016,
+      "height": 604
+    },
+    "works": "Charles Rennie Mackintosh-苏格兰-高背椅,",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/lGI4jmRZ-DIBtqg7SgmnTg"
+  },
+  {
+    "id": 11,
+    "nationality": "美国",
+    "name": "Charles & Ray Eames伊姆斯夫妇",
+    "birth": "1907-1978,1912-1988",
+    "avatar": {
+      "url": "/images/image_11.png",
+      "width": 572,
+      "height": 552
+    },
+    "works": "Organic Chair 有机椅,DCW椅,",
+    "cases": "Eames住宅",
+    "links": "https://mp.weixin.qq.com/s/V01CYAEUsHlD94GP1FqNNw"
+  },
+  {
+    "id": 12,
+    "nationality": "芬兰",
+    "name": "Eero Aarnio",
+    "birth": "1932年",
+    "avatar": {
+      "url": "/images/image_12.png",
+      "width": 592,
+      "height": 602
+    },
+    "works": "泡泡椅,球椅,蛋椅",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/RN6DMQEcX-uRtAShBACcGA"
+  },
+  {
+    "id": 13,
+    "nationality": "爱尔兰",
+    "name": "Eileen Gray",
+    "birth": "1878-1976",
+    "avatar": {
+      "url": "/images/image_13.png",
+      "width": 720,
+      "height": 640
+    },
+    "works": "Bibendum chairEileen Gray End Table,Eileen Gray Bibendum ChairRoattino落地灯",
+    "cases": "Mathieu Lévy巴黎公寓",
+    "links": "https://mp.weixin.qq.com/s/BHJim8sik9QUDPoWgWFa6Q"
+  },
+  {
+    "id": 14,
+    "nationality": "意大利",
+    "name": "Fabio Novembre",
+    "birth": "1966-",
+    "avatar": {
+      "url": "/images/image_14.png",
+      "width": 532,
+      "height": 530
+    },
+    "works": "人面椅(面具椅)Nemo Chair人体椅Him&Her ChairDivana SofaJOLLY ROGER骷髅椅ROBOX书架Happy Pills花瓶Lantern台灯",
+    "cases": "AC米兰新总部大楼设计",
+    "links": "https://mp.weixin.qq.com/s/NhTqv-RhrvqnAKj_Iym8-Q"
+  },
+  {
+    "id": 15,
+    "nationality": "丹麦",
+    "name": "Finn Juhl",
+    "birth": "1912-1989",
+    "avatar": {
+      "url": "/images/image_15.png",
+      "width": 752,
+      "height": 646
+    },
+    "works": "45 Chair,46 Sofa,Poet Sofa ,Chieftain Chair（酋长椅）",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/XqLP7cb-rpP6aMuIHTvFyA"
+  },
+  {
+    "id": 16,
+    "nationality": "丹麦",
+    "name": "Frits Henningsen",
+    "birth": "1889-1965",
+    "avatar": {
+      "url": "/images/image_16.png",
+      "width": 784,
+      "height": 544
+    },
+    "works": "The Signature Chair,FH419 | Heritage chair",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/JQUQngPNlUCHr4ZEtd3Yrg"
+  },
+  {
+    "id": 17,
+    "nationality": "美国",
+    "name": "Frank O. Gehry",
+    "birth": "1929",
+    "avatar": {
+      "url": "/images/image_17.png",
+      "width": 918,
+      "height": 1026
+    },
+    "works": "《Easy Edges》家具系列 ",
+    "cases": "路易威登基金会的博物馆,毕尔巴鄂古根汉姆,洛杉矶的迪士尼音乐厅",
+    "links": "https://mp.weixin.qq.com/s/hgr-jAksm2WtUPRk7bSZGQ"
+  },
+  {
+    "id": 18,
+    "nationality": "美国",
+    "name": "Florence Knoll",
+    "birth": "1917-1955",
+    "avatar": {
+      "url": "/images/image_18.png",
+      "width": 502,
+      "height": 556
+    },
+    "works": "",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/Zkxm2AbcbWfyiq5dxvMNqQ"
+  },
+  {
+    "id": 19,
+    "nationality": "意大利",
+    "name": "Gio Ponti",
+    "birth": "1891-1979",
+    "avatar": {
+      "url": "/images/image_19.png",
+      "width": 514,
+      "height": 496
+    },
+    "works": "699 Superleggera,",
+    "cases": "米兰公寓via Dezza 49号,Parco dei Principi酒店",
+    "links": "https://mp.weixin.qq.com/s/vLcWygDToNisu9bVeoW2-Q"
+  },
+  {
+    "id": 20,
+    "nationality": "意大利",
+    "name": "Gae Aulenti",
+    "birth": "1927-2012",
+    "avatar": {
+      "url": "/images/image_20.png",
+      "width": 434,
+      "height": 478
+    },
+    "works": "April椅,咖啡桌,Locus Solus Chair",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/A5-gDnJgop51daW-PLZt8A"
+  },
+  {
+    "id": 21,
+    "nationality": "美国",
+    "name": "george nelson",
+    "birth": "1908-1986",
+    "avatar": {
+      "url": "/images/image_21.png",
+      "width": 684,
+      "height": 570
+    },
+    "works": "椰子椅,向日葵沙发,",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/utsrT37CF15wXZC6cxheTw"
+  },
+  {
+    "id": 22,
+    "nationality": "意大利",
+    "name": "gaetano pesce",
+    "birth": "1939-",
+    "avatar": {
+      "url": "/images/image_22.png",
+      "width": 1056,
+      "height": 1060
+    },
+    "works": "Feltri chair,UP5 and UP6,",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/gYsnOZB-Z08IgnxueftArQ"
+  },
+  {
+    "id": 23,
+    "nationality": "丹麦",
+    "name": "Hans J. Wegner",
+    "birth": "1914–2007",
+    "avatar": {
+      "url": "/images/image_23.png",
+      "width": 682,
+      "height": 480
+    },
+    "works": "Shell chair CH07Wishbone Chair,贝壳椅,WING CHAIR",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/2f_C0xhrM5s6B1nezzTatQ"
+  },
+  {
+    "id": 24,
+    "nationality": "意大利",
+    "name": "Harry Bertoia",
+    "birth": "1915-1978",
+    "avatar": {
+      "url": "/images/image_24.png",
+      "width": 556,
+      "height": 582
+    },
+    "works": "Bertoia椅子,Bertoia鸟椅和鸟脚凳",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/7lCkJSGhebDS6fLn8wGpBw"
+  },
+  {
+    "id": 25,
+    "nationality": "法国巴黎",
+    "name": "Jean Prouvé",
+    "birth": "1901-1984",
+    "avatar": {
+      "url": "/images/image_25.png",
+      "width": 966,
+      "height": 744
+    },
+    "works": "Standard Chair, 1934,Cité Daybed, 1930,Compass School Desk, 1952",
+    "cases": "Metropole Aluminium House,预制钢结构建筑",
+    "links": [
+      "https://mp.weixin.qq.com/s/HOcfFo3jL5SFOV35xqf3lQ",
+      "https://mp.weixin.qq.com/s/OhjfCJkGvjYRGGbhbH_XHA"
+    ]
+  },
+  {
+    "id": 26,
+    "nationality": "意大利",
+    "name": "joe colombo",
+    "birth": "1930-1971",
+    "avatar": {
+      "url": "/images/image_26.png",
+      "width": 1668,
+      "height": 1316
+    },
+    "works": "The Elda Chair ,The Tube Chair,",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/OaN0qfdWMTayes-nJdSGhA"
+  },
+  {
+    "id": 27,
+    "nationality": "法国巴黎",
+    "name": "Jean Royére",
+    "birth": "1902年-1981",
+    "avatar": {
+      "url": "/images/image_27.png",
+      "width": 548,
+      "height": 456
+    },
+    "works": "北极熊沙发,扶手椅、水坑桌,藤蔓灯",
+    "cases": "法国驻亚历山大领事馆,位于赫尔辛基的新法国公使馆",
+    "links": "https://mp.weixin.qq.com/s/OiYrRGGaBuMpGy9BlZc_1A"
+  },
+  {
+    "id": 28,
+    "nationality": "丹麦",
+    "name": "Kaare Klint",
+    "birth": "1888-1954",
+    "avatar": {
+      "url": "/images/image_28.png",
+      "width": 832,
+      "height": 684
+    },
+    "works": "游猎椅,FAABORG CHAIR ,KK9662 Faaborg",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/tIVGlO6-8BSuJC8LZGVBLw"
+  },
+  {
+    "id": 29,
+    "nationality": "瑞士",
+    "name": "Le Corbusier ",
+    "birth": "1887-1965",
+    "avatar": {
+      "url": "/images/image_29.png",
+      "width": 710,
+      "height": 644
+    },
+    "works": "LC系列,LC35 MAISON DU BRESIL组合",
+    "cases": "马赛公寓 (1946-52)；郎香教堂 (1950-55)；多米尼克修道院\"La Tourette\"",
+    "links": "https://mp.weixin.qq.com/s/eR7cIIrJeg-Kt4vlVa_pFQ"
+  },
+  {
+    "id": 30,
+    "nationality": "德国",
+    "name": "Ludwig Mies   Van der Rohe",
+    "birth": "1886-1969",
+    "avatar": {
+      "url": "/images/image_30.png",
+      "width": 508,
+      "height": 470
+    },
+    "works": "金属藤椅（MR）,巴塞罗那椅,",
+    "cases": "巴塞罗那德国馆,图根哈特住宅,范斯沃斯住宅",
+    "links": "https://mp.weixin.qq.com/s/F90F-p0jtH45XaXjy-h3NA"
+  },
+  {
+    "id": 31,
+    "nationality": "匈牙利",
+    "name": "Marcel Breuer",
+    "birth": "1902-1981",
+    "avatar": {
+      "url": "/images/image_31.png",
+      "width": 510,
+      "height": 510
+    },
+    "works": "Wassily chair,B 9 Side Table,Stye Nesting Tables",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/QSX_S9RQGEyoe_yre5MULw"
+  },
+  {
+    "id": 32,
+    "nationality": "意大利",
+    "name": "Massimo Iosa Ghini",
+    "birth": "1959-",
+    "avatar": {
+      "url": "/images/image_32.png",
+      "width": 550,
+      "height": 560
+    },
+    "works": "DNA屏风,H20桌椅",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/NMcGjwYw9RxA5Ev9e750MA"
+  },
+  {
+    "id": 33,
+    "nationality": "丹麦",
+    "name": "mogens koch",
+    "birth": "1888-1993",
+    "avatar": {
+      "url": "/images/image_33.png",
+      "width": 1154,
+      "height": 1212
+    },
+    "works": "mk折叠椅, 折叠凳,Bookcase书柜系统设计",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/idr_f-My9HVqPSxPNU5l9A"
+  },
+  {
+    "id": 34,
+    "nationality": "德国",
+    "name": "MICHAEL THONET",
+    "birth": "1796-1871",
+    "avatar": {
+      "url": "/images/image_34.png",
+      "width": 306,
+      "height": 362
+    },
+    "works": "TON14号椅,TON18号椅子,TON20号椅子",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/r5WusvOVgkZWy1Nl7hsrLA"
+  },
+  {
+    "id": 35,
+    "nationality": "意大利",
+    "name": "Mario Bellini",
+    "birth": "1935",
+    "avatar": {
+      "url": "/images/image_35.png",
+      "width": 852,
+      "height": 684
+    },
+    "works": "Cab马鞍椅,餐桌La Rotonda,",
+    "cases": "米兰的贸易会展中心、日本东京设计中心、墨尔本维多利亚国家美术馆、法兰克福的德意志银行总部,法国卢浮宫伊斯兰艺术馆区",
+    "links": "https://mp.weixin.qq.com/s/T0mah6hFbHMNsPL3N2bnCw"
+  },
+  {
+    "id": 36,
+    "nationality": "澳大利亚",
+    "name": "marc newson",
+    "birth": "1963-",
+    "avatar": {
+      "url": "/images/image_36.png",
+      "width": 272,
+      "height": 364
+    },
+    "works": "Felt椅,柳条椅The Wicker Chair,Rocky木马摇椅,Super Guppy Floor Lamp 长颈鹿落地灯",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/tio-E2YujCfd0JrZLFziKg"
+  },
+  {
+    "id": 37,
+    "nationality": "丹麦",
+    "name": "nanna ditzel ",
+    "birth": "1923-2005",
+    "avatar": {
+      "url": "/images/image_37.png",
+      "width": 682,
+      "height": 674
+    },
+    "works": "蝴蝶椅,Trinidad单椅,Hanging chair",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/mQGUTvVqfNXHkGrA644Qvg"
+  },
+  {
+    "id": 38,
+    "nationality": "法国巴黎",
+    "name": "pierre chapo",
+    "birth": "1927-1987",
+    "avatar": {
+      "url": "/images/image_38.png",
+      "width": 860,
+      "height": 872
+    },
+    "works": "设计于1966年的S11木椅,1964年设计的S10X单人座椅,",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/SbPd2lHdCgPtyICSNFxciA"
+  },
+  {
+    "id": 39,
+    "nationality": "法国",
+    "name": "Philippe Starck",
+    "birth": "1949-",
+    "avatar": {
+      "url": "/images/image_39.png",
+      "width": 866,
+      "height": 736
+    },
+    "works": "SMART WOOD椅子,ai椅,RAE ORRGRAY桌子",
+    "cases": "La Croix Valmer,MA COCOTTE AUX HALLES",
+    "links": "https://mp.weixin.qq.com/s/Y8fGzqodb5F3-C8JTWKxXA"
+  },
+  {
+    "id": 40,
+    "nationality": "瑞士",
+    "name": "Pierre Jeanneret",
+    "birth": "1896-1967",
+    "avatar": {
+      "url": "/images/image_40.png",
+      "width": 1334,
+      "height": 1248
+    },
+    "works": "Easy armchair pair,Ein Paar Armlehnstühle LC/1sofa from Punjab University, ChandigarhSet of six Easy armchairs",
+    "cases": "昌迪加尔·国会大厦,昌迪加尔·国会大厦·议会宫,昌迪加尔·国会大厦·秘书处",
+    "links": "https://mp.weixin.qq.com/s/Anl9D1qrIIIj_4zzkkgyEA"
+  },
+  {
+    "id": 41,
+    "nationality": "丹麦",
+    "name": "paul kjaerholm",
+    "birth": "1929-1980",
+    "avatar": {
+      "url": "/images/image_41.png",
+      "width": 696,
+      "height": 682
+    },
+    "works": "设计于1966年的S11木椅,1964年设计的S10X单人座椅",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/g4ZLwr92NGukVLv-7w_J2A"
+  },
+  {
+    "id": 42,
+    "nationality": "法国",
+    "name": "Pierre Paulin",
+    "birth": "1927-",
+    "avatar": {
+      "url": "/images/image_42.png",
+      "width": 316,
+      "height": 364
+    },
+    "works": "Ribbon椅,560号椅,Tongue椅",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/w2mYoQuE1HDMCHkhxIwKeg"
+  },
+  {
+    "id": 43,
+    "nationality": "以色列",
+    "name": "Ron Arad",
+    "birth": "1951",
+    "avatar": {
+      "url": "/images/image_43.png",
+      "width": 660,
+      "height": 624
+    },
+    "works": "Rover椅, Tom Vac椅,休闲椅",
+    "cases": "以色列霍隆市設計博物館",
+    "links": "https://mp.weixin.qq.com/s/4-RVog_K_sLhoRHAY1OQVQ"
+  },
+  {
+    "id": 44,
+    "nationality": "英国",
+    "name": "ross lovegrove",
+    "birth": "1958",
+    "avatar": {
+      "url": "/images/image_44.png",
+      "width": 350,
+      "height": 358
+    },
+    "works": "bone椅,crop椅,go扶手椅,magic椅",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/iMQXPL8283mmf6p19Zkvfw"
+  },
+  {
+    "id": 45,
+    "nationality": "日本",
+    "name": "shiro kuramata ",
+    "birth": "1934-1991",
+    "avatar": {
+      "url": "/images/image_45.png",
+      "width": 342,
+      "height": 348
+    },
+    "works": "how hight the moon扶手椅,布兰小姐椅,储物柜",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/_63IdXM8zefHEViE7UKWUA"
+  },
+  {
+    "id": 46,
+    "nationality": "日本",
+    "name": "sori yanagi",
+    "birth": "",
+    "avatar": {
+      "url": "/images/image_46.png",
+      "width": 356,
+      "height": 354
+    },
+    "works": "蝴蝶凳,柳氏餐桌椅",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/1alsKzubmswv8ek-YETAyA"
+  },
+  {
+    "id": 47,
+    "nationality": "突尼斯",
+    "name": "tom dixon",
+    "birth": "1959-",
+    "avatar": {
+      "url": "/images/image_47.png",
+      "width": 742,
+      "height": 636
+    },
+    "works": "Fat系列,Pylon系列,",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/PpQ2_aE4QKA3aPCThuGJMQ"
+  },
+  {
+    "id": 48,
+    "nationality": "日本",
+    "name": "toshiyuki kita",
+    "birth": "1942-",
+    "avatar": {
+      "url": "/images/image_48.png",
+      "width": 266,
+      "height": 362
+    },
+    "works": "WINK躺椅,Tronco长凳,TAKO灯",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/Q2N-7ADBoI3JBtNsORNcRg"
+  },
+  {
+    "id": 49,
+    "nationality": "丹麦",
+    "name": "verner panton",
+    "birth": "1926-1998",
+    "avatar": {
+      "url": "/images/image_49.png",
+      "width": 382,
+      "height": 332
+    },
+    "works": "第一把一体成型的塑料悬臂椅——美人椅,",
+    "cases": "圣巴塞洛缪教堂",
+    "links": "https://mp.weixin.qq.com/s/Fne781tX1BUhZVcpwnd7Sw"
+  },
+  {
+    "id": 50,
+    "nationality": "德国",
+    "name": "walter gropius ",
+    "birth": "1883-1969",
+    "avatar": {
+      "url": "/images/image_50.png",
+      "width": 522,
+      "height": 490
+    },
+    "works": "Faguswerk大堂扶手椅,Faguswerk大堂沙发,包豪斯魏玛校舍沙发,包豪斯魏玛校舍沙发",
+    "cases": "",
+    "links": "https://mp.weixin.qq.com/s/Ya-aY7D-k3TSHcsZdqL2mA"
+  }
+]
