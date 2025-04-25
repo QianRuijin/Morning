@@ -1,20 +1,19 @@
+import { memo } from 'react'
 import classes from './galleryItem.module.css'
+import type { GalleryData, Position } from '../../../types/gallery';
 
 // 定义 Props 接口
 interface Props {
-  data: {
-    id: number;
-    name: string;
-    avatar: { url: string }
-  }; // 明确 data 的结构
+  data: GalleryData;
   width: number;
   index: number;
-  positions: Record<number, React.CSSProperties>; // positions 是一个对象，值为 CSS 属性
+  positions: Position[];
+  onClick: (data: GalleryData) => void;
 }
 
-export default function GalleryItem({ data, width, index, positions }: Props) {
+const GalleryItem = memo(function GalleryItem({ data, width, index, positions, onClick }: Props) {
   return (
-    <div className={classes.container}
+    <div className={classes.container} onClick={() => onClick(data)}
       style={{
         width: `${width}px`,
         position: "absolute",
@@ -26,4 +25,6 @@ export default function GalleryItem({ data, width, index, positions }: Props) {
       </div>
     </div>
   )
-}
+})
+
+export default GalleryItem

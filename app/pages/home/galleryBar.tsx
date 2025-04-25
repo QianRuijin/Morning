@@ -1,23 +1,10 @@
-import { useState, useRef, useEffect } from "react";
+import { useState, useRef, useEffect, useCallback } from "react";
+import { Modal } from 'antd';
 import GalleryItem from './components/galleryItem';
+import GalleryModal from './components/galleryModal';
 import classes from "./galleryBar.module.css";
 import galleryData from '../../../public/data.json'
-
-interface GalleryData {
-  id: number;
-  nationality: string;
-  name: string;
-  birth: string;
-  avatar: { url: string; width: number; height: number; };
-  works: string;
-  cases: string;
-  links: string | string[];
-}
-
-interface Position {
-  left: number;
-  top: number;
-}
+import type { GalleryData, Position } from '../../types/gallery';
 
 const GUTTER = 20; // 新增间距常量
 
@@ -82,8 +69,40 @@ export default function GalleryBar() {
     };
   }, []);
 
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [selectedItem, setSelectedItem] = useState<GalleryData | null>(null);
+
+  const showModal = () => {
+    setIsModalOpen(true);
+  };
+
+  const handleOk = () => {
+    setIsModalOpen(false);
+  };
+
+  const handleCancel = () => {
+    setIsModalOpen(false);
+  };
+
+  const handleItemClick = useCallback((item: GalleryData) => {
+    setSelectedItem(item);
+    showModal();
+  }, [])
+
+
   return (
     <div ref={containerRef} className={classes.waterfallContainer}>
+      <Modal
+        centered
+        open={isModalOpen}
+        onOk={handleOk}
+        onCancel={handleCancel}
+        title={null} // 隐藏标题
+        footer={null} // 隐藏确认按钮
+        getContainer={false}
+        styles={{content:{width:'648px'}}}>
+        {selectedItem && <GalleryModal data={selectedItem} />}
+      </Modal>
       {galleryData.map((item, index) => (
         <GalleryItem
           key={item.id}
@@ -91,6 +110,7 @@ export default function GalleryBar() {
           width={columnWidth}
           index={index}
           positions={positions}
+          onClick={handleItemClick}
         />
       ))}
     </div>
