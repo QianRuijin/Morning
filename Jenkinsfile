@@ -11,7 +11,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // 从 Git 仓库拉取代码
-                git branch: 'master', url: 'http://127.0.0.1:8800/root/morning_web.git'
+                git branch: 'main', url: 'http://127.0.0.1:8800/root/morning-web.git'
             }
         }
 
@@ -37,7 +37,7 @@ pipeline {
 
         stage('Deploy') {
             when {
-                branch 'master'  // 仅 main 分支触发部署
+                branch 'main'  // 仅 main 分支触发部署
             }
             // steps {
             //     // 部署到服务器（示例：SCP 上传到目标路径）
